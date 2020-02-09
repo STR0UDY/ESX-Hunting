@@ -1,0 +1,1 @@
+This script is messy but it works, used by OurStoryRP (Previously known as BackstoryRP)
